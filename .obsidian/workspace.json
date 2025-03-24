@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "76334766ac4de012",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a0ec909264dfe1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5851f5d1a39edfc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/publishing/publish-to-azure-devops-wiki.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "publish-to-azure-devops-wiki"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd8e5ebc1263a687",
+    "type": "split",
+    "children": [
+      {
+        "id": "27e11732503dff26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3368dff4958896b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "caf204b743289272",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "36e8d9e7aa91fbfe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "052eb0f47e52478a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a65f3471048d4c60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eafafac5e714a19d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/publishing/publish-to-azure-devops-wiki.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for publish-to-azure-devops-wiki"
+            }
+          },
+          {
+            "id": "80c67698aca62239",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/publishing/publish-to-azure-devops-wiki.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from publish-to-azure-devops-wiki"
+            }
+          },
+          {
+            "id": "f3cb09be4c3db88e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "57bdfe0c8ca22d4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/publishing/publish-to-azure-devops-wiki.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of publish-to-azure-devops-wiki"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5851f5d1a39edfc7",
+  "lastOpenFiles": [
+    "Gemfile.lock",
+    "Gemfile",
+    "gemfile",
+    "use-keyboard-shortcuts-for-editing.md",
+    "docs/publishing/math-support-with-katex.md",
+    "docs/tools/workspace-janitor.md",
+    "docs/tools/orphans.md",
+    "docs/tools/foam-logging-in-vscode.md",
+    "docs/tools/cli.md",
+    "todo.md",
+    "inbox.md",
+    "readme.md",
+    "docs/features/including-notes.md",
+    "docs/features/commands.md",
+    "docs/features/backlinking.md"
+  ]
+}
